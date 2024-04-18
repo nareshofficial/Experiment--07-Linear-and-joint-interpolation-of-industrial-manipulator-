@@ -1,3 +1,8 @@
+## DATE:15.04.2024
+## NAME:NARESH.P.S
+## REG NO:212223040127
+## DEPARTMENT:CSE
+
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
@@ -36,38 +41,18 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
+![image](https://github.com/Keerthana-VJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/149347704/c894320b-f40b-4e02-93e2-1c3d06439412)
+
+
+
+### Robot movements:
+![image](https://github.com/Keerthana-VJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/149347704/1e70e815-17f7-437d-933d-f1eccaa6eef9)
 
 
 
 
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
-
-### Robot movements 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Keerthana-VJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/149347704/44779d96-8f95-4e4c-a862-27716848bdb0)
 
 ### Results:  
+Thus,linear and joint interpolation of industrial manipulator is executed with a suitable program.
+ 
